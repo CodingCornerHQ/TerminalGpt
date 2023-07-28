@@ -13,7 +13,7 @@ To run the code in this repository, you need to set up your OpenAI API credentia
 ## Contents
 
 - `ai.py`: The main Python module that encapsulates the AI logic for interacting with the GPT-4 (or GPT-3.5 Turbo) chat model.
-- `example.py`: An example Python script demonstrating how to use the `ai.py` module to interact with the AI.
+- `gpt.py`: An example Python script demonstrating how to use the `ai.py` module to interact with the AI.
 
 ## How to Use
 
