@@ -18,9 +18,8 @@ To run the code in this repository, you need to set up your OpenAI API credentia
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/your-username/my-awesome-ai-project.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Set up your OpenAI API credentials as explained in the "Setup" section.
-4. Run the example script: `python gpt.py`
+2. Set up your OpenAI API credentials as explained in the "Setup" section.
+3. Run the example script: `python gpt.py`
 
 ## Note
 
